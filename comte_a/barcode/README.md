@@ -1,0 +1,1 @@
+Read on the stdin from the barcode scanner then push barcode into a file named "dump_file"
