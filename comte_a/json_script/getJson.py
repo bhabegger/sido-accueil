@@ -15,7 +15,7 @@ def is_json(myjson):
 
 old_json_name = "old.json"
 new_json_name = "new.json"
-json_url = 'http://qze.fr/colo.json'
+json_url = 'http://localhost:3000/persons'
 
 while True:
 #	time.sleep(0.2)
