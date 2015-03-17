@@ -18,7 +18,7 @@ new_json_name = "new.json"
 json_url = 'http://localhost:3000/persons'
 
 while True:
-#	time.sleep(0.2)
+	time.sleep(1)
 	print ("[debug] Starting downloading", json_url)
 	buffer = BytesIO()
 	dl = pycurl.Curl()
